@@ -1,8 +1,7 @@
 ### Hi there, I'm Jonnes Bezerra 🤙
-<!-- height="100" -->
 
-**A little about me: **
-  <img align="right" alt="Jonnes-Marvel" height="100" src="https://media0.giphy.com/media/10ADhj1QPawFna/giphy.gif">
+A little about me:
+  <img align="right" alt="Jonnes-Marvel" height="150" src="https://media0.giphy.com/media/10ADhj1QPawFna/giphy.gif">
 - 🌱 I’m currently learning Front-end & Back-end to become Full-Stack
 - 😄 Pronouns: he/him
 - 🤓 Marvel Fan
