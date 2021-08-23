@@ -1,13 +1,14 @@
 ### Hi there, I'm Jonnes Bezerra 🤙
 
-A little about me:
+**A little about me:**
   <img align="right" alt="Jonnes-Marvel" height="150" src="https://media0.giphy.com/media/10ADhj1QPawFna/giphy.gif">
 - 🌱 I’m currently learning Front-end & Back-end to become Full-Stack
 - 😄 Pronouns: he/him
 - 🤓 Marvel Fan
 
+<br/>
 
- <div>
+<div>
   <a href="https://github.com/JonnesBezerra">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jonnesbezerra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnesbezerra&layout=compact&langs_count=7&theme=dracula"/>
