@@ -2,18 +2,16 @@
 
 **A little about me:**
   <img align="right" alt="Jonnes-Marvel" height="150" src="https://media0.giphy.com/media/10ADhj1QPawFna/giphy.gif">
-- 🌱 I’m currently learning Front-end & Back-end to become Full-Stack
+- 🧠 Learn is my life
+- 🌱 I'm currently learning Deploy stuffs with Heroku
+- 🎡 My hobbies are films, music, sports and be a sparkling water sommelier 🧐
+- 💼 I'm a Front-End Developer (looking for a job) certified by Trybe
 - 😄 Pronouns: he/him
 - 🤓 Marvel Fan
 
 <br/>
 <br/>
 
-<div>
-  <a href="https://github.com/JonnesBezerra">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jonnesbezerra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnesbezerra&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jonnes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jonnes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
@@ -42,6 +40,12 @@
   <a href="https://www.facebook.com/jonnesbezerra" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
   </a>
+  
+ <div>
+  <a href="https://github.com/JonnesBezerra">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jonnesbezerra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnesbezerra&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
   ![Snake animation](https://github.com/jonnesbezerra/jonnesbezerra/blob/output/github-contribution-grid-snake.svg)
 </div>
