@@ -9,9 +9,6 @@
 - 😄 Pronouns: he/him
 - 🤓 Marvel Fan
 
-<br/>
-<br/>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Jonnes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jonnes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
