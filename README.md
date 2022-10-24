@@ -3,9 +3,9 @@
 **A little about me:**
   <img align="right" alt="Jonnes-Marvel" height="150" src="https://media0.giphy.com/media/10ADhj1QPawFna/giphy.gif">
 - 🧠 Learn is my life
-- 🌱 I'm currently learning Deploy stuffs with Heroku
+- 🌱 I'm currently learning TypeScript and Docker
 - 🎡 My hobbies are films, music, sports and be a sparkling water sommelier 🧐
-- 💼 I'm a Front-End Developer (looking for a job) certified by Trybe
+- 💼 I'm a Full Stack Developer certified by Trybe 💚
 - 😄 Pronouns: he/him
 - 🤓 Marvel Fan
 
